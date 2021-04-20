@@ -11,3 +11,9 @@ animal = {
   name: 'frito'
   color: 'black'
 }
+
+customer = {
+  name: "Peter Parker",
+  age: 17,
+  purchase: 'Amazing Fantasy #15'
+}
